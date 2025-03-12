@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="dkbhbpahSpV_1VONTGZ5">
-    <mxGraphModel dx="2585" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,25 +324,25 @@
           <mxGeometry x="-26.97" y="17" width="302.97" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="382" width="159" height="159" as="geometry" />
+          <mxGeometry x="-799" y="376" width="159" height="159" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-2" value="&lt;font face=&quot;Courier New&quot;&gt;headers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="405" width="140" height="30" as="geometry" />
+          <mxGeometry x="-789" y="399" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-3" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Key&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="439" width="140" height="30" as="geometry" />
+          <mxGeometry x="-789" y="433" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-4" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;b&gt;Value&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="473" width="140" height="30" as="geometry" />
+          <mxGeometry x="-789" y="467" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-5" value="&lt;font face=&quot;Courier New&quot;&gt;timestamp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="507" width="140" height="30" as="geometry" />
+          <mxGeometry x="-789" y="501" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Record&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-750.5" y="377" width="60" height="30" as="geometry" />
+          <mxGeometry x="-749.5" y="371" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-7" value="" style="rounded=1;fillColor=#cce5ff;strokeColor=#36393d;shadow=1;html=1;arcSize=4;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="556" width="410" height="94" as="geometry" />
+          <mxGeometry x="-800" y="540" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#36B37E;strokeColor=none;html=1;fontSize=14;fontStyle=0;labelPosition=right;align=left;spacingLeft=20;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="DTmI5th6kJm84t1U6GzK-7">
           <mxGeometry width="14" height="14" relative="1" as="geometry">
@@ -350,34 +350,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-9" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Record&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DTmI5th6kJm84t1U6GzK-7">
-          <mxGeometry x="15.743887457074344" y="7.808541996621861" width="54.42775708748193" height="9.922222222222219" as="geometry" />
+          <mxGeometry x="15.743887457074344" y="9.137655527961755" width="54.42775708748193" height="11.611111111111107" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-10" value="&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;A record is a Kafka message with the structure of a key-value pair.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Key(Optional)&lt;/b&gt;: String/Any complex object that is a&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;unique identifier that&amp;nbsp;is&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;to generate a hash, which determines the specific partition to which the message will be routed.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;A message with the same key always lands in the same partition.(&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot; face=&quot;Lucida Console&quot;&gt;hash(key)%number_of_partitions&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Value(Required)&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px;&quot; face=&quot;Comic Sans MS&quot;&gt;The actual message payload (can be any data, like JSON, string, or binary).&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DTmI5th6kJm84t1U6GzK-7">
-          <mxGeometry x="-26.21" y="15.980000000000002" width="436.21" height="75.19999999999999" as="geometry" />
+          <mxGeometry x="-26.21" y="18.700000000000006" width="436.21" height="87.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-11" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-570" y="522" as="sourcePoint" />
-            <mxPoint x="-632" y="522" as="targetPoint" />
+            <mxPoint x="-569" y="516" as="sourcePoint" />
+            <mxPoint x="-631" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-12" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;creation time or ingestion time&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-575.25" y="506" width="200" height="30" as="geometry" />
+          <mxGeometry x="-574.25" y="500" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-13" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-568" y="420" as="sourcePoint" />
-            <mxPoint x="-630" y="420" as="targetPoint" />
+            <mxPoint x="-567" y="414" as="sourcePoint" />
+            <mxPoint x="-629" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-14" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;optional&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-565.25" y="403" width="70" height="30" as="geometry" />
+          <mxGeometry x="-564.25" y="397" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="439" width="20" height="65" as="geometry" />
+          <mxGeometry x="-629" y="433" width="20" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-16" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot; face=&quot;Comic Sans MS&quot;&gt;Business Relevant Data&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-609.65" y="457" width="160" height="30" as="geometry" />
+          <mxGeometry x="-608.65" y="451" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-17" value="&lt;pre&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Topic&lt;/b&gt;: booking_topic&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Partition&lt;/b&gt;: 0&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Offset&lt;/b&gt;: 101&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Key&lt;/b&gt;: &quot;BookId1&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Value&lt;/b&gt;: &quot;Booked with ID 1&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Timestamp&lt;/b&gt;: 2025-03-12T14:30:00Z&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Headers&lt;/b&gt;: {&quot;source&quot;: &quot;web&quot;}&lt;/font&gt;&lt;/div&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;align=left;" vertex="1" parent="1">
           <mxGeometry x="-387" y="550" width="147" height="100" as="geometry" />
