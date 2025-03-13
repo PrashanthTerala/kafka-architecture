@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="dkbhbpahSpV_1VONTGZ5">
-    <mxGraphModel dx="2440" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,6 +440,9 @@
         </mxCell>
         <mxCell id="DTmI5th6kJm84t1U6GzK-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.047;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DTmI5th6kJm84t1U6GzK-134" target="DTmI5th6kJm84t1U6GzK-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DTmI5th6kJm84t1U6GzK-138" value="&lt;font style=&quot;font-size: 8px; color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;Kafka organizes logs into named structures called &quot;topics,&quot;&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px; color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;which are further divided into partitions to enable&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 8px; color: rgb(0, 0, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;parallelism and fault tolerance.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-380.33" y="447" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
